@@ -1,6 +1,6 @@
 name: lanio_la5r_controller
 description: An implementation of LA-5T2S controller
-version: 1.0.0
+version: 1.0.1
 repository: https://github.com/espresso3389/lanio_la5r_controller
 
 environment:
