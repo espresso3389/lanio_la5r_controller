@@ -1,4 +1,4 @@
-import 'package:lanio_la5r_test/lanio_la5r_test.dart';
+import 'package:lanio_la5r_controller/src/lanio_la5r_test_base.dart';
 
 Future<void> main() async {
   final lanio = Lanio(address: '192.168.10.91', port: 10003);
